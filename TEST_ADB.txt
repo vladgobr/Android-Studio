@@ -1,0 +1,90 @@
+07-07 22:25:29.281  1958  2019 V BackupManagerService: restoreAtInstall pkg=com.android.todolist token=3 restoreSet=0
+07-07 22:25:29.285  1958  2019 I InstallationStatistic: com.android.todolist|com.google.android.packageinstaller|4261|218|9|352|3202|0
+07-07 22:25:29.316  1958  2134 I MiuiCompatModePackages: package com.android.todolist updated, removing config
+07-07 22:25:29.329  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+07-07 22:25:29.330  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+07-07 22:25:29.332  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.settings/.search.provider.UpdateReceiver
+07-07 22:25:29.333  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+07-07 22:25:29.333  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.facebook.appmanager/com.facebook.oxygen.common.packages.event.manifest.ManifestPackageEventReceiver
+07-07 22:25:29.335  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+07-07 22:25:29.347  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+07-07 22:25:29.347  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+07-07 22:25:29.347  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+07-07 22:25:29.347  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.mi.android.globalminusscreen/.health.receiver.HealthAppReceiver
+07-07 22:25:29.348  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+07-07 22:25:29.367  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.global.packageinstaller/.AppInstalledReceiver
+07-07 22:25:29.369  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+07-07 22:25:29.370  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.misettings/.usagestats.AppTimerReceiver
+07-07 22:25:29.375  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to by.bycard.kino/com.yandex.metrica.MetricaEventHandler
+07-07 22:25:29.375  1958  1998 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.office.notification.SystemBroadcastReceiver
+07-07 22:25:34.419  1958  1998 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_ADDED
+07-07 22:27:18.333  1958  3705 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.todolist cmp=com.android.todolist/.MainActivity} from uid 10084
+07-07 22:27:18.396  1958  1999 D Boost   : hostingType=activity, hostingName={com.android.todolist/com.android.todolist.MainActivity}, callerPackage=com.miui.global.packageinstaller, isSystem=true, isBoostNeeded=false.
+07-07 22:27:18.396  1958  1999 I ActivityManager: Start proc 21627:com.android.todolist/u0a295 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=com.miui.global.packageinstaller
+07-07 22:27:19.571 21627 21627 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 610ms late (wall=0ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 359ms (seq=2 running=318ms runnable=4ms io=13ms late=1ms h=android.app.ActivityThread$H w=110), msg 2 took 384ms (seq=3 running=324ms runnable=6ms io=21ms late=227ms h=android.app.ActivityThread$H w=159)
+07-07 22:27:19.841  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6bf1864 u0 com.android.todolist/.MainActivity t1631} time:58788763
+07-07 22:27:23.831 21627 21627 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=269ms, a=20ms, w=4287ms]
+07-07 22:27:24.127  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6bf1864 u0 com.android.todolist/.MainActivity t1631} time:58793049
+07-07 22:27:24.136  1958  2334 I WindowManager: Screen frozen for +742ms due to Window{dc2297f u0 com.android.todolist/com.android.todolist.MainActivity}
+07-07 22:27:47.782 21627 21627 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=220ms, a=9ms, w=23795ms]
+07-07 22:27:48.048  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6bf1864 u0 com.android.todolist/.MainActivity t1631} time:58816970
+07-07 22:27:48.060  1958  1989 I WindowManager: Screen frozen for +468ms due to Window{ddab17 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-07 22:28:01.060  1958  3431 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@63d01fa
+07-07 22:28:07.718  1958  3704 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@d301f62
+07-07 22:29:12.383 21627 21627 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=1480ms, a=60ms, w=84455ms]
+07-07 22:31:29.718  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6bf1864 u0 com.android.todolist/.MainActivity t1631} time:59038640
+07-07 22:31:34.733  1958  4551 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@b12311c
+07-07 22:31:35.525 21627 21627 E AndroidRuntime: Process: com.android.todolist, PID: 21627
+07-07 22:31:35.525 21627 21627 E AndroidRuntime: 	at com.android.todolist.MainActivity.ordenarAZ(MainActivity.kt:196)
+07-07 22:31:35.525 21627 21627 E AndroidRuntime: 	at com.android.todolist.MainActivity.onNavigationItemSelected(MainActivity.kt:86)
+07-07 22:31:35.538  1958  2735 W ActivityTaskManager:   Force finishing activity com.android.todolist/.MainActivity
+07-07 22:31:35.584  1958  4551 I WindowManager: WIN DEATH: Window{ddab17 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-07 22:31:35.584  1958  2726 I ActivityManager: Process com.android.todolist (pid 21627) has died: vis TOP 
+07-07 22:31:36.039  1958  1988 W ActivityTaskManager: Activity top resumed state loss timeout for ActivityRecord{6bf1864 u0 com.android.todolist/.MainActivity t-1 f}
+07-07 22:31:39.597  1958  5348 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10100000 pkg=com.android.todolist cmp=com.android.todolist/.MainActivity} from uid 10084
+07-07 22:31:39.668  1958  1999 D Boost   : hostingType=activity, hostingName={com.android.todolist/com.android.todolist.MainActivity}, callerPackage=com.miui.global.packageinstaller, isSystem=true, isBoostNeeded=false.
+07-07 22:31:39.671  1958  1999 I ActivityManager: Start proc 22299:com.android.todolist/u0a295 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=com.miui.global.packageinstaller
+07-07 22:31:40.633 22299 22299 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 682ms late (wall=1ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 409ms (seq=2 running=361ms runnable=6ms io=14ms late=1ms h=android.app.ActivityThread$H w=110), msg 2 took 418ms (seq=3 running=339ms runnable=8ms io=42ms late=265ms h=android.app.ActivityThread$H w=159)
+07-07 22:31:40.814  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{de55612 u0 com.android.todolist/.MainActivity t1631} time:59049735
+07-07 22:32:01.644  1958  5560 D com.android.server.pm.PackageManagerServiceInjector: Skip dexopt on: /data/user/0/com.google.android.youtube/cache/1616432909849.jar, because com.google.android.youtube is not current resumed. Current resumed is: com.android.todolist
+07-07 22:32:50.411 22299 22299 W ActivityThread: SCHED: com.android.todolist/.MainActivity [97, r=1151ms, a=32ms, w=69793ms]
+07-07 22:36:51.127  1958  1985 V AppStateTracker: Package com.android.todolist/10295 toggled into fg service restriction
+07-07 22:36:51.129  1958  1985 V AppStateTracker: Package com.android.todolist/10295 toggled into fg service restriction
+07-07 22:48:11.277  1958  5560 D com.android.server.pm.PackageManagerServiceInjector: Skip dexopt on: /data/user/0/com.google.android.youtube/cache/1598581401714.jar, because com.google.android.youtube is not current resumed. Current resumed is: com.android.todolist
+07-07 22:48:39.071  2412  2412 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+07-07 22:48:39.291 22299 22299 W ActivityThread: SCHED: com.android.todolist/.MainActivity [72, r=21ms, a=8ms, w=224ms]
+07-07 22:48:39.310  6666  6687 I GST     : forePkg: com.android.settings, preForePkg: com.android.todolist
+07-07 22:48:39.372  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{de55612 u0 com.android.todolist/.MainActivity t1631} time:60068293
+07-07 22:48:41.184  6666  6687 I GST     : forePkg: com.android.todolist, preForePkg: com.android.settings
+07-07 22:48:41.209  2412  2412 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+07-07 22:49:41.450 22299 22299 W ActivityThread: SCHED: com.android.todolist/.MainActivity [90, r=9ms, a=1ms, w=60245ms]
+07-07 22:51:23.539  4849  5069 D PowerCheckerService: foreground, uid = 10295, app = com.android.todolist
+07-07 22:51:24.574  2412  2412 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+07-07 22:51:24.885  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{de55612 u0 com.android.todolist/.MainActivity t1631} time:60233807
+07-07 22:51:25.850 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:51:25.851 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:52:26.122 22299 22299 W ActivityThread: SCHED: com.android.todolist/.MainActivity [94, r=223ms, a=13ms, w=61557ms]
+07-07 22:52:26.540  4849  5069 D PowerCheckerService: foreground, uid = 10295, app = com.android.todolist
+07-07 22:53:18.579  4849  5069 D PowerCheckerService: foreground, uid = 10295, app = com.android.todolist
+07-07 22:53:19.573  2412  2412 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+07-07 22:53:19.878  1958  1989 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{de55612 u0 com.android.todolist/.MainActivity t1631} time:60348800
+07-07 22:53:20.833 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:20.845 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:20.862  1958  1970 E InputDispatcher: Window handle Window{e9891b u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+07-07 22:53:20.870 22299 22299 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+07-07 22:53:20.879  1958  1970 E InputDispatcher: Window handle Window{e9891b u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+07-07 22:53:21.666 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:21.667 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:22.437 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:22.499 13837 13837 I AndroidIME: AbstractIme.onActivate():84 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable, IncognitoMode = false
+07-07 22:53:22.859  1958  2735 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@a639fe7
+07-07 22:53:24.530  1958  3431 E InputDispatcher: Window handle Window{de23e2b u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+07-07 22:53:24.540 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:24.542 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:24.546  1958  3705 E InputDispatcher: Window handle Window{de23e2b u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+07-07 22:53:24.547 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:26.969 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:26.971 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:27.869 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22:53:27.870 22299 22299 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@9fc14ec
+07-07 22
